@@ -4,15 +4,15 @@ DBMS project
 instructions:-
 
 <h3>Front End </h3>
-  1. Download zip file and extract it
-  2. Copy entire file into xampp/htdocs folder
-  3. open xampp control panel and start Apache and Mysql server
-  4. goto browser type 'localhost' 
-
+  1. Download zip file and extract it </br>
+  2. Copy entire file into xampp/htdocs folder </br>
+  3. open xampp control panel and start Apache and Mysql server </br>
+  4. goto browser type 'localhost'  </br>
+ </br>
 <h3> Back End</h3>
-  1. go to browser type ' localhost/phpmyadmin '
-  2. new database - give name - create
-  3. search import option insert sql file
-  4. Thats all. Enjoy!!!!
+  1. go to browser type ' localhost/phpmyadmin ' </br>
+  2. new database - give name - create </br>
+  3. search import option insert sql file </br>
+  4. Thats all. Enjoy!!!! </br>
   
-  Give Star for this
+  <h4>Give Star for this</h4>
